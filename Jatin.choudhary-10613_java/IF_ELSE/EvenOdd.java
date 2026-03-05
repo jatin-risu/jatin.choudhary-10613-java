@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class EvenOdd {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -38,4 +36,5 @@ public class EvenOdd {
     else
       System.out.println("Odd");
   }
+
 }
