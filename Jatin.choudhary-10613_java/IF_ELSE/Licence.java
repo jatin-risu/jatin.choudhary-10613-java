@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class Licence {
@@ -33,4 +31,5 @@ public class Licence {
     else
       System.out.println("Not Eligible");
   }
+
 }
