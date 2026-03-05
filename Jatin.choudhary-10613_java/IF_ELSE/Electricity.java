@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class Electricity {
@@ -43,3 +41,4 @@ public class Electricity {
     System.out.println(bill);
   }
 }
+
