@@ -1,7 +1,3 @@
-package IF_ELSE;
-
-import java.util.Scanner;
-
 public class incomeTax {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -57,4 +53,5 @@ public class incomeTax {
 
     System.out.println("Tax to Pay: " + tax);
   }
+
 }
