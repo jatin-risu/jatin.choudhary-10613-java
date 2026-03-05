@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class ATM {
@@ -40,3 +38,4 @@ public class ATM {
       System.out.println("Insufficient Balance");
   }
 }
+
