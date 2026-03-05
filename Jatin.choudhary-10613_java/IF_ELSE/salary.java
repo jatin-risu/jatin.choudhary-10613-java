@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class salary {
@@ -40,3 +38,4 @@ public class salary {
       System.out.println("No Bonus");
   }
 }
+
