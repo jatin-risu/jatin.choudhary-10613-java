@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class strong {
@@ -45,4 +43,5 @@ public class strong {
     else
       System.out.println("Weak Password");
   }
+
 }
