@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class time {
@@ -40,3 +38,4 @@ public class time {
       System.out.println("Good Evening");
   }
 }
+
