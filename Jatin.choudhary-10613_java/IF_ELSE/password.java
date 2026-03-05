@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class password {
@@ -43,3 +41,4 @@ public class password {
       System.out.println("Access Denied");
   }
 }
+
