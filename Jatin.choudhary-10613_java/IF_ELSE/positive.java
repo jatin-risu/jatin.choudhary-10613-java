@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class positive {
@@ -49,3 +47,4 @@ public class positive {
       System.out.println("Zero");
   }
 }
+
