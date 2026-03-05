@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class passfail {
@@ -43,3 +41,4 @@ public class passfail {
 
   }
 }
+
