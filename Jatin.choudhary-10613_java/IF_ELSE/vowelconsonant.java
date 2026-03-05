@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 public class vowelconsonant {
   public static void main(String[] args) {
     char ch = sc.next().charAt(0);
@@ -35,3 +33,4 @@ public class vowelconsonant {
     }
   }
 }
+
