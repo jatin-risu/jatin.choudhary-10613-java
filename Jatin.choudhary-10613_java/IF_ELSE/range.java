@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class range {
@@ -33,4 +31,5 @@ public class range {
     else
       System.out.println("Out of Range");
   }
+
 }
