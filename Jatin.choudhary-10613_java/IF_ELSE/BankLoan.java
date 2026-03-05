@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class BankLoan {
@@ -46,3 +44,4 @@ public class BankLoan {
       System.out.println("Loan Rejected");
   }
 }
+
