@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 public class DivisibleBy5 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -34,4 +32,5 @@ public class DivisibleBy5 {
       System.out.println("Not divisble");
     }
   }
+
 }
