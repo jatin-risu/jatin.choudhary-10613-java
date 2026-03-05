@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class Calculator {
@@ -46,3 +44,4 @@ public class Calculator {
       System.out.println("Fail");
   }
 }
+
