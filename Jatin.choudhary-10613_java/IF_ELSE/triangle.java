@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class triangle {
@@ -43,3 +41,4 @@ public class triangle {
       System.out.println("Invalid Triangle");
   }
 }
+
