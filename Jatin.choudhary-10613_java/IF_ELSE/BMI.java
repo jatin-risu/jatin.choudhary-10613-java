@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class BMI {
@@ -42,3 +40,4 @@ public class BMI {
       System.out.println("Overweight");
   }
 }
+
