@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class GreatestThree {
@@ -48,4 +46,5 @@ public class GreatestThree {
     else
       System.out.println(c);
   }
+
 }
