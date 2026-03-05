@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class Qudratic {
@@ -48,4 +46,5 @@ public class Qudratic {
     else
       System.out.println("Complex Roots");
   }
+
 }
