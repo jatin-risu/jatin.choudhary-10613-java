@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class divisibleBy3 {
@@ -34,3 +32,4 @@ public class divisibleBy3 {
       System.out.println("Not divisible by both");
   }
 }
+
