@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class triangletype {
@@ -48,4 +46,5 @@ public class triangletype {
     else
       System.out.println("Scalene");
   }
+
 }
