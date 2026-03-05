@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 import java.util.Scanner;
 
 public class Scholarship {
@@ -42,4 +40,5 @@ public class Scholarship {
     else
       System.out.println("Not Eligible");
   }
+
 }
